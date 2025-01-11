@@ -125,7 +125,7 @@ input, select, textarea {
 		color: #888;
 	}
 	section#top.one.dark.cover{
-	background-image: url("/images/banner.jpg");
+	background-image: url("../images/banner.jpg");
 }
 h2.alt{
 background-color: #68868d;
